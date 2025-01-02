@@ -1,0 +1,1 @@
+ Courier company adds a check, if person is in HR, deliveries on office address won't be done after 3 PM .

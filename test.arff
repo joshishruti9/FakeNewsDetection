@@ -1,0 +1,10 @@
+@relation s
+@attribute a real 
+@attribute b real 
+@attribute c real 
+@attribute d real 
+@attribute e real 
+@attribute f real 
+@attribute class{benign,fake} 
+@data 
+0.0787878787878788,3,1,1,0,5.120000000000001,fake

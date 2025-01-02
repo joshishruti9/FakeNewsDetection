@@ -1,0 +1,1 @@
+ Techie uses PM Modi’s name while declaring global variable as he is a variable with global scope .
